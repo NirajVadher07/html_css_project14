@@ -9,7 +9,7 @@ In this project I was given the task to make a home page which should look like 
 
 ### Result:
 ![result](result.png)
-`ZOOM:100%`
+`ZOOM:67%`
 ## Learning
 In this project i get to learn many thing like
 - how to add navigation bar using flex
